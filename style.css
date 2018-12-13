@@ -1,4 +1,6 @@
-body {margin:0;
+body {
+    margin:0;
+    text-align:center;
 }
 
 .menu {
@@ -125,16 +127,14 @@ h2{
 }
 
 iframe.vid{
-    height:100%;
-    width:200px;
+    
 }
 iframe.vid1{
-    height:100%;
-    width:200px;
+    
 }
 table{
     width:100%;
-    height:280px;
+    height:300px;
     text-align:center;
 }
 iframe.eb{
